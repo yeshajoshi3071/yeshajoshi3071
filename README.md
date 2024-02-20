@@ -36,6 +36,6 @@ I am dedicated to staying at the forefront of technology. I have completed certi
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/yeshajoshi3071/)
-- [My Portfolio] (https://my-portfolio-umber-alpha.vercel.app/)
+- [My Portfolio](https://my-portfolio-umber-alpha.vercel.app/)
 
 Let's build the future together! 🚀✨
