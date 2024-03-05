@@ -1,8 +1,8 @@
 ![logo](https://github.com/yeshajoshi3071/yeshajoshi3071/blob/main/github_banner.png)
 <h1 align="center">👋 Hello, I'm Yesha Joshi - Software Engineer</h1>
 <p align="center">
-  <img align="right" alt="coding" width="300" src="![image](https://github.com/yeshajoshi3071/yeshajoshi3071/assets/144627072/a885e39b-2c43-4d5a-b286-e201d68be317)
-">
+  <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
+</p>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeshajoshi3071&label=Profile%20views&color=0e75b6&style=flat" alt="yeshajoshi3071" /> </p>
 <p align="left">
