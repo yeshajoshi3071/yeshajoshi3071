@@ -8,7 +8,7 @@
 <p align="left">
   I'm a passionate and results-driven Software Engineer currently pursuing a Master's degree in Computer Systems Engineering at Northeastern University. 🚀 I thrive on turning ideas into reality through the power of code, with a strong foundation in object-oriented programming and a knack for optimizing software performance. Join me on my journey as I contribute innovative solutions to the world of technology.
 </p>
-
+<br>
 <h2 align="left">About Me</h2>
 
 - **🎓 Education**
