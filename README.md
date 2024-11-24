@@ -97,7 +97,7 @@ I am dedicated to staying at the forefront of technology. I have completed certi
 
 <h2 align="left">Connect with Me</h2>
 
-- **LinkedIn**
+- **[LinkedIn](https://www.linkedin.com/in/yeshajoshi3071/)**
 - **📧 Email:** yesha.j3001@gmail.com
 - **⚡ Fun fact:** I love travelling
 
