@@ -6,7 +6,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeshajoshi3071&label=Profile%20views&color=0e75b6&style=flat" alt="yeshajoshi3071" /> </p>
 <p align="left">
-  I'm a passionate and results-driven Software Engineer currently pursuing a Master's degree in Computer Systems Engineering at Northeastern University. 🚀 I thrive on turning ideas into reality through the power of code, with a strong foundation in object-oriented programming and a knack for optimizing software performance. Join me on my journey as I contribute innovative solutions to the world of technology.
+ I'm a passionate Software Engineer pursuing a Master's in Software Engineering Systems at Northeastern University. I specialize in building scalable software solutions and optimizing performance. With hands-on experience in full-stack development and data engineering, I thrive on solving complex problems and turning innovative ideas into reality.
 </p>
 <br>
 <h2 align="left">About Me</h2>
@@ -17,23 +17,33 @@
 
 <h2 align="left">💻 Technical Skills & Certifications</h2>
 
-- **Proficient in:**
+- **Languages & Frameworks:**
   * Java
   * Python
   * C++
   * JavaScript
   * HTML5
   * CSS
-
-- **Experienced with frameworks like:**
-  * React.js
+  * Spring Boot
   * Express.js
-  * Django
+  * Node.js
 
 - **Skilled in database management with:**
   * MySQL
   * MongoDB
   * PostgreSQL
+  * Redis
+ 
+- **Tools & Technologies:**
+  * AWS
+  * Docker
+  * Git
+  * GitHub Actions
+  * Databricks
+  * PySpark
+  * PowerBI
+  * Firebase
+  * Azure
 
 - **Certified in:**
   * Web Development
@@ -42,18 +52,42 @@
 
 <h2 align="left">🚀 Professional Experience</h2>
 
-As a Full Stack Developer Intern at Fluxbyte Technologies, I optimized API performance by 60%, reduced code volume by 30%, and transitioned to TypeScript for a 40% improvement in code quality. I excel in designing efficient CI/CD pipelines and implementing robust RESTful APIs, ensuring seamless communication within applications.
+ * Graduate Teaching Assistant at Northeastern University (Sep 2024 – Present):
+   As a Graduate Teaching Assistant for the CSYE6200 course, I supported over 50 students in mastering Java, OOP principles, and design patterns, improving 
+   class performance. I designed over 20 hands-on coding exercises, real-world projects, and graded assignments, enhancing students' understanding of software engineering concepts and 
+   facilitating their development in object-oriented design.
+
+ * Data Engineer Intern at Tredence Inc. (Jun 2024 - Aug 2024):
+   At Tredence Inc., I developed Python scripts to clean and transform promotional data for a grocery brand, enhancing code reusability and maintenance. I improved SQL query 
+   performance through indexing and query optimization and created PowerBI dashboards to help the marketing team make real-time data-driven decisions.
+
+ * Software Developer Intern at Fluxbyte Technologies Pvt. Ltd. (Feb 2022 - Jul 2023):
+   During my internship at Fluxbyte, I led the development of an inventory management system, improving application stability by implementing unit tests with JUnit and building RESTful 
+   APIs with Spring Boot. I also contributed to scalable e-commerce solutions using Node.js and MongoDB, and transitioned the codebase from JavaScript to TypeScript, improving code 
+   quality and reducing code volume.
 
 <h2 align="left">🌐 Academic Projects</h2>
 
-I architectured a secure E-Society Management Application, demonstrating my ability to create web-based solutions that prioritize security and user experience. From event notifications to payment gateway integration, I thrive in projects that combine innovation and practicality.
+ * CareerCraft AI:
+   Developed an AI-driven platform to personalize career pathways by analyzing data to recommend Udemy courses and LinkedIn job opportunities based on user skill gaps. The platform 
+   was built using ReactJS, Spring Boot, and PostgreSQL, integrating Python, LLM, and APIs from Udemy and LinkedIn. Data was stored in Redis, and the application was deployed on AWS 
+   EC2 and S3.
+
+ * Task Management Application:
+   I created a drag-and-drop task management application with a smooth user interface designed using React DnD, React.js, and Redux. The design focused on responsive and customizable 
+   UI components, using Tailwind and MUI. Secure role-based access was integrated through Firebase Authentication, with the backend powered by Express.js, Node.js, and MongoDB. The 
+   application also leveraged the Azure Translation API for real-time language translation.
+
+ * Healthcare Management Application:
+   Built a healthcare management system with a responsive UI using ReactJS, Spring Boot, and PostgreSQL. It focused on ensuring HIPAA compliance for managing patient and billing data, 
+   utilizing Spring Data JPA for efficient data handling. The deployment pipeline was automated using GitHub Actions, enabling continuous integration and delivery.
 
 <h2 align="left">🌟 Key Strengths</h2>
 
 - **Team Collaboration:** 
   * I bring a collaborative spirit and contribute effectively to team projects.
 - **Time Management:** 
-  * With a commitment to deadlines, I ensure timely delivery of high-quality solutions.
+  * With a commitment to deadlines, I ensure the timely delivery of high-quality solutions.
 - **Communication Skills:** 
   * Strong verbal and written communication skills enable me to convey complex technical concepts with clarity.
 
